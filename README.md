@@ -10,10 +10,8 @@ A modern web application built with Next.js, featuring server-side rendering, op
 - **Language:** TypeScript
 - **Styling:** TailwindCSS
 - **UI Components:** Shadcn/UI
-- **State Management:** React Context / Zustand (adjust as needed)
-- **Database:** (PostgreSQL / MongoDB - adjust as needed)
+- **State Management:** React Context 
 - **Authentication:** NextAuth.js (if used)
-- **Deployment:** Vercel
 
 ## ✨ Features
 
